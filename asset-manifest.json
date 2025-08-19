@@ -1,10 +1,13 @@
 {
   "files": {
+    "main.css": "/cleaning-hook-generator/static/css/main.e0a66260.css",
     "main.js": "/cleaning-hook-generator/static/js/main.8fc15b25.js",
     "index.html": "/cleaning-hook-generator/index.html",
+    "main.e0a66260.css.map": "/cleaning-hook-generator/static/css/main.e0a66260.css.map",
     "main.8fc15b25.js.map": "/cleaning-hook-generator/static/js/main.8fc15b25.js.map"
   },
   "entrypoints": [
+    "static/css/main.e0a66260.css",
     "static/js/main.8fc15b25.js"
   ]
 }
